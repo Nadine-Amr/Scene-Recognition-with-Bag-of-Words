@@ -4,7 +4,9 @@ Based on the assignment developed by James Hays and Sam Birch, scenes are recogn
 
 # Running the Code
 
-Please download the "data" folder from this link: https://drive.google.com/open?id=1_LUG3wNzLz7lH_KvfDpbrWncDc9VeMgm and place it in the same folder as the "code" folder before you run.
+Please download the "data" folder from this link: 
+https://drive.google.com/open?id=1_LUG3wNzLz7lH_KvfDpbrWncDc9VeMgm 
+and place it in the same folder as the "code" folder before you run.
 
 In order to test the second of the three different algorithms, kindly call the function "projSceneRecBoW()". It will calculate the scene recognition accuracy using the bag of words representation and the nearest neighbor classifier. The "vocab" matrix with 500 clusters is provided so that the vocabulary does not have to be rebuilt.
 
